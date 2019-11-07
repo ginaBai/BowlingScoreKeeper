@@ -5,3 +5,10 @@
 *.war
 *.ear
 /bin
+
+# Intellij Idea Files
+*.iml
+/.idea
+
+# Mac files
+.DS_Store
