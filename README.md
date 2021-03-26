@@ -20,12 +20,12 @@ When finished, please follow the steps below:
 and click "Next"
 - Step 3: Check the Task2_BowlingScoreKeeper, including .classpath, .gitignore, .project, and click "Finish"
 - Step 4: Find this exported project, rename it as <EmailAddress_Task2> and compress it
-- Submit <EmailAddress_Task2>.zip via [TestingPerformanceStudy - Submission Link](https://docs.google.com/forms/d/e/1FAIpQLScIr5u1g2MN_IgxQapZOuhAszypoJLr8tw5o9qBJ_dtUAygpw/viewform)
+- Submit <EmailAddress_Task2>.zip via Google Form
 
 Congratulations, you just finished ALL tasks in this study!!! 
 
 Two last steps:
-- You are free to stop screen recording now, please save it to local disk and rename it as <EmailAddress_Video> and submit it via [TestingPerformanceStudy - Submission Link](https://docs.google.com/forms/d/e/1FAIpQLScIr5u1g2MN_IgxQapZOuhAszypoJLr8tw5o9qBJ_dtUAygpw/viewform)
-- Please fill out a short [post-survey](https://ncsu.qualtrics.com/jfe/form/SV_87isZmq36Tat1gp)!
+- You are free to stop screen recording now, please save it to local disk and rename it as <EmailAddress_Video> and submit it via Google Form
+- Please fill out a short [post-survey](https://ncsu.qualtrics.com/jfe/form/SV_87isZmq36Tat1gp) ([Stolee_18025_PostSurvey.pdf](https://github.com/ginaBai/TestingPerformanceStudy/blob/master/Stolee_18025_PostSurvey.pdf))!
 
 Now you are ready to go! Thanks again for participating in this study!
